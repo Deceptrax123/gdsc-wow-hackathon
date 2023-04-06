@@ -1,0 +1,5 @@
+tensorflow==2.12.0
+pandas==2.0.0
+flask==2.2.3
+scikit-learn==1.2.2
+numpy==1.23.5
