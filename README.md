@@ -1,5 +1,9 @@
 # Death Clock
 
+## Disclaimer
+Use the [pre-trained models](https://github.com/Deceptrax123/gdsc-wow-hackathon/blob/master/model_train.ipynb) instead of building your own model for the hackathon
+
+
 This repository contains the boilerplate code for the [Mortality Dataset](https://www.kaggle.com/datasets/rajanand/mortality). You can refer to the kaggle workspaces to fetch/download your data.
 
 
