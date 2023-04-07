@@ -23,9 +23,18 @@ python app.py
 ```
 - **Train the model**
 Open the Jupyter Notebook and tune the model for higher accuracy
-- ** Save the model **
+- **Save the model**
 ```python
 model.save()
 ```
 - **Test the model**
 - Deploy it
+
+## Reccomenedations
+
+Once you've completed tuning the model for higher accuracy, you can train the model on:
+- [Azure ML](https://ml.azure.com)
+- [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
+- [Kaggle Worksapces](https://www.kaggle.com/getting-started/106737)
+- [Google's Colab](https://colab.research.google.com/)
+
