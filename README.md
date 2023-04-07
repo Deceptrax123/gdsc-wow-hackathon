@@ -11,3 +11,21 @@ This repository contains the boilerplate code for the [Mortality Dataset](https:
 |[model.json](https://github.com/Deceptrax123/gdsc-wow-hackathon/blob/master/model.json) | Saved model|
 |[model.h5](https://github.com/Deceptrax123/gdsc-wow-hackathon/blob/master/model.h5) | Saved weights of the previous training|
 |[Requirements.txt](https://github.com/Deceptrax123/gdsc-wow-hackathon/blob/master/Requirements.txt)|Dependencies used| 
+
+## Flow
+- **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+- **Test the server**
+```bash
+python app.py
+```
+- **Train the model**
+Open the Jupyter Notebook and tune the model for higher accuracy
+- ** Save the model **
+```python
+model.save()
+```
+- **Test the model**
+- Deploy it
